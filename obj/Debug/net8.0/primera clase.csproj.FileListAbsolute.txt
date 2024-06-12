@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/primera clase/bin/Debug/net8.0/primera clase
+/home/et12alumno/Escritorio/primera clase/bin/Debug/net8.0/primera clase.deps.json
+/home/et12alumno/Escritorio/primera clase/bin/Debug/net8.0/primera clase.runtimeconfig.json
+/home/et12alumno/Escritorio/primera clase/bin/Debug/net8.0/primera clase.dll
+/home/et12alumno/Escritorio/primera clase/bin/Debug/net8.0/primera clase.pdb
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.AssemblyInfo.cs
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.dll
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/refint/primera clase.dll
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.pdb
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/primera clase.genruntimeconfig.cache
+/home/et12alumno/Escritorio/primera clase/obj/Debug/net8.0/ref/primera clase.dll
